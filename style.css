@@ -1,0 +1,82 @@
+.header{
+  background-color: #FFFBF0;
+}
+.top-heading h1{
+  color: #FABE4C;
+  font-weight: bold;
+  font-size: 3.1rem;
+  letter-spacing: -4px;
+}
+.top-heading .head-2{
+ color: #363958;
+ font-weight: bold;
+ font-size: 3.1rem;
+}
+.button-top{
+ background-color: #8EA927;
+ color: #FFFFFF;
+ border: none;
+ outline: none;
+ padding: 13px 20px;
+ border-radius: .5rem;
+}
+.button-bottom{
+  background-color: #8EA927;
+  color: #FFFFFF;
+  border: none;
+  outline: none;
+  padding: 0px 2px;
+  border-radius: .5rem;
+}
+.col .img-size{
+ width: 28rem;
+}
+#jacket h1{
+  color: #363958;
+  letter-spacing: -2px;
+  font-weight: bold;
+  font-size: 2rem;
+}
+#jacket h5{
+  color: #363958;
+  font-weight: bold;
+}
+#jacket p{
+  font-weight: 500;
+}
+.img-background{
+  background-color: #F1F1F1;
+  border-radius: 1rem;
+}
+.img-background img{
+  width: 14rem;
+  height: 17rem;
+}
+.penguin-card{
+  border: none;
+  border-radius: 2rem;
+}
+.penguin-card-footer{
+  border: none;
+  background-color: white;
+}
+.penguin-card-footer h4{
+  color: #FABC4B;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+
+.footer-img img{
+  width: 30rem;
+  float: right;
+  margin-top: -25rem;
+}
+
+.footer-section h5{
+  color: #363958;
+}
+.footer-section p{
+  color: #595959;
+  font-weight: 600;
+}
